@@ -11,6 +11,7 @@ Driveway: Yes
 Council Tax Band: B
 EPC: D
 Garage: No
+Price: "275000"
 ---
 # Description
 ![[2318-2.jpg]]

@@ -11,6 +11,7 @@ Driveway:
 Council Tax Band:
 EPC:
 Garage:
+Price:
 ---
 # Description
 
