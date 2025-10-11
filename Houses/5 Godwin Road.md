@@ -4,8 +4,8 @@ Bedrooms: "3"
 Bathrooms: "1"
 Garden: Yes
 Basement: No
-status: viewing
-date_viewing:
+status: viewed
+date_viewing: 10/10/25
 type: Semi-Detached
 Driveway: Yes
 Council Tax Band: B

@@ -5,7 +5,7 @@ Bathrooms: "1"
 Garden: Yes
 Basement: No
 status: viewing
-date_viewing:
+date_viewing: 10/10/25
 type: End of Terrace
 Driveway: No
 Council Tax Band: C
