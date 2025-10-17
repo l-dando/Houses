@@ -12,6 +12,7 @@ Council Tax Band: C
 EPC:
 Garage: No
 Price: "299995"
+second_viewing_date: 18/10/25
 ---
 # Description
 ![[2774-1.jpg]]
